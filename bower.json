@@ -1,0 +1,23 @@
+{
+  "name": "admin",
+  "authors": [
+    "Apoorv Dayal"
+  ],
+  "description": "admin dashboard for onRoute Taxi",
+  "main": "resources",
+  "keywords": [
+    "dashboard",
+    "admin",
+    "onroute",
+    "taxi"
+  ],
+  "license": "MIT",
+  "homepage": "home.blade.php",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
