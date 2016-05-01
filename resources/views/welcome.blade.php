@@ -8,6 +8,7 @@
 	<script src="{{URL::asset('/js/bootstrap.min.js')}}"></script>
 	<link href="{{ URL::asset('/css/bootstrap.css') }}" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="{{URL::asset('/css/home.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{URL::asset('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css')}}">
     <script src="{{URL::asset('/js/home.js')}}"></script>
     </head>
     <body>
@@ -195,7 +196,7 @@
 			<div class="container-fluid">
 				<header class="rad-page-title">
 					<span>Dashboard</span>
-					<small class="md-txt">Welcome Apoorv, <a href="https://www.google.com/maps/place/3720+Emerald+St,+Torrance,+CA+90503/@33.8403836,-118.3543828,17z/data=!4m18!1m15!4m14!1m6!1m2!1s0x80c2b4d407f58b11:0xdedca55964c89054!2s3720+Emerald+St,+Torrance,+CA+90503!2m2!1d-118.3520761!2d33.8403792!1m6!1m2!1s0x80c2b4d407f58b11:0xdedca55964c89054!2s3720+Emerald+St,+Torrance,+CA+90503!2m2!1d-118.3520761!2d33.8403792!3m1!1s0x80c2b4d407f58b11:0xdedca55964c89054" target="_blank"><i class="fa fa-map-marker rad-txt-danger"></i> Mumbai</a></small>					</header>
+					<small class="md-txt">Welcome Apoorv, <a href="https://www.google.com/maps/place/Anushakti+Nagar,+Mumbai,+Maharashtra,+India/@19.0357035,72.9199975,15z/data=!3m1!4b1!4m2!3m1!1s0x3be7c5dde4382b9f:0x4254d8c3182cc4bb" target="_blank"><i class="fa fa-map-marker rad-txt-danger"></i> Mumbai</a></small>					</header>
 				<div class="row">
 					<div class="col-lg-3 col-xs-6">
 						<div class="rad-info-box rad-txt-success">
