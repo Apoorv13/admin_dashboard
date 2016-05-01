@@ -200,28 +200,28 @@
 				<div class="row">
 					<div class="col-lg-3 col-xs-6">
 						<div class="rad-info-box rad-txt-success">
-							<i class="fa fa-windows"></i>
+							<i class="fa fa-location-arrow"></i>
 							<span class="heading">Chembur</span>
 							<span class="value"><span>41</span></span>
 						</div>
 					</div>
 					<div class="col-lg-3 col-xs-6">
 						<div class="rad-info-box rad-txt-primary">
-							<i class="fa fa-facebook"></i>
+							<i class="fa fa-location-arrow"></i>
 							<span class="heading">Powai</span>
 							<span class="value"><span>23</span></span>
 						</div>
 					</div>
 					<div class="col-lg-3 col-xs-6">
 						<div class="rad-info-box rad-txt-danger">
-							<i class="fa fa-google-plus"></i>
+							<i class="fa fa-location-arrow"></i>
 							<span class="heading">Andheri</span>
 							<span class="value"><span>49</span></span>
 						</div>
 					</div>
 					<div class="col-lg-3 col-xs-6">
 						<div class="rad-info-box">
-							<i class="fa fa-apple"></i>
+							<i class="fa fa-location-arrow"></i>
 							<span class="heading">Bandra</span>
 							<span class="value"><span>109</span></span>
 						</div>
